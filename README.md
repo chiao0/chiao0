@@ -1,9 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&width=600&lines=Hi+I'm+Chiao!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&width=600&lines=Hi+I'm+Chiao0!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 # 👋 Hi!
 
-我是 **Chiao**，來自台灣的資訊管理系大學生。  
-喜歡探索程式語言、App 設計，還有一點點AI的世界。✨
+你好，我是 **chiao**，來自台灣的資訊管理系大學生。  
+正在學習程式開發、App 設計與AI應用💻
+
+Hello, I’m **chiao**, a university student majoring in information management from Taiwan.
+Learning programming, App design and AI applications💻
 
 ---
 
@@ -26,10 +29,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiao0&show_icons=true&theme=radical" alt="chiao's GitHub stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=chiao0&theme=radical&border_radius=5.5" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiao0&show_icons=true&theme=radical&border_radius=5.5&custom_title=chiao's+GitHub+Stats&hide_rank=false&card_width=400" alt="chiao's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=chiao0&theme=radical&border_radius=5.5&card_width=400" alt="GitHub Streak" />
 </p>
+
 
 ---
 

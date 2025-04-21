@@ -52,7 +52,10 @@ Learning programming, App design and AI applications💻
 ---
 
 ## 📫 Contact Me
-- Email: a0967010405@gmail.com
-- 
+
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:a0967010405@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](http://instagram.com/chiaoo_0405)
+[![Facebook](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CJbY6gRHy/)
+
 
 

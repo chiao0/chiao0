@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7768E&width=435&lines=Hi+I'm+Chiao!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C8FF&width=600&lines=Hi+I'm+Chiao!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 # 👋 Hi!
 
 你好，我是 **chiao**，來自台灣的資訊管理系大學生。  
 正在學習程式開發、App 設計與AI應用💻
+
+Hello, I’m **chiao**, a university student majoring in information management from Taiwan.
+Learning programming, App design and AI applications💻
 
 ---
 
@@ -48,6 +52,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: a0967010405@gmail.com  
+- Email: a0967010405@gmail.com
+- 
 
 

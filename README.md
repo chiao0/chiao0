@@ -36,6 +36,15 @@ Learning programming, App design and AI applications💻
 
 ---
 
+📌 精選專案
+🔍 健康管理 App（Flutter + Firebase） 👉 flutter-app
+
+🛒 電商網站（HTML/CSS/Java + MySQL） 👉 Network-Programming-Design-final
+
+📊 城市資料儀表板（ApexCharts + Mapbox） 👉 2024_SA-demo
+
+---
+
 ## 💌 Contact Me  
 
 <p align="center">

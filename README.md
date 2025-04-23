@@ -40,7 +40,7 @@ Learning programming, App design and AI applications💻
 
 - 📊 City Data Dashboard (ApexCharts + Mapbox) 👉 [2024_SA-demo](https://github.com/chiao0/2024_SA-demo)  
 - 🔍 Health Management App (Flutter + Firebase) 👉 [flutter-app](https://github.com/chiao0/flutter-app)  
-- 🛒 E-commerce Website  👉 [Network-Programming-Design-final](https://github.com/chiao0/Network-Programming-Design-final)  
+- 🛒 E-commerce Website (HTML/CSS/Java + MySQL) 👉 [Network-Programming-Design-final](https://github.com/chiao0/Network-Programming-Design-final)   
 
 ---
 

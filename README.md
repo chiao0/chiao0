@@ -36,12 +36,11 @@ Learning programming, App design and AI applications💻
 
 ---
 
-📌 精選專案
-🔍 健康管理 App（Flutter + Firebase） 👉 flutter-app
+## 📌 Featured Projects
 
-🛒 電商網站（HTML/CSS/Java + MySQL） 👉 Network-Programming-Design-final
-
-📊 城市資料儀表板（ApexCharts + Mapbox） 👉 2024_SA-demo
+- 🔍 Health Management App (Flutter + Firebase) 👉 [flutter-app](https://github.com/chiao0/flutter-app)  
+- 🛒 E-commerce Website (HTML/CSS/Java + MySQL) 👉 [Network-Programming-Design-final](https://github.com/chiao0/Network-Programming-Design-final)  
+- 📊 City Data Dashboard (ApexCharts + Mapbox) 👉 [2024_SA-demo](https://github.com/chiao0/2024_SA-demo)  
 
 ---
 

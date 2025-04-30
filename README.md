@@ -8,6 +8,8 @@
 Hello, I’m **chiao**, a university student majoring in information management from Taiwan.
 Learning programming, App design and AI applications💻
 
+👉 [personal website](https://chiao0.github.io/personal_website/)
+
 ---
 
 ## 🔧 Languages & Tools  

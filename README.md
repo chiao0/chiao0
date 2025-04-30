@@ -53,4 +53,7 @@ Learning programming, App design and AI applications💻
   <a href="http://instagram.com/chiaoo_0405">
     <img src="https://img.shields.io/badge/-Instagram-FF9CEE?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://line.me/ti/p/vC4dJJtwOR">
+    <img src="https://img.shields.io/badge/-LINE-00C300?style=flat-square&logo=line&logoColor=white" alt="LINE" />
+  </a>
 </p>
